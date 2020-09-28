@@ -1,0 +1,31 @@
+#logo{
+	}
+
+	body{
+		background-color: #ebeff5;
+	}
+
+	#total-orders{
+		background-color: #4cb4c7;
+	}
+
+  .hello-msg{
+    font-size: 18px;
+    color:#fff;
+    margin-right: 20px;
+  }
+
+	.profile-pic{
+		max-width: 100px;
+		max-height:100px;
+		margin: 0 auto;
+		border-radius: 50%;
+	}
+	#orders-delivered{
+		background-color: #7abecc;
+	}
+
+	#orders-pending{
+		background-color: #7CD1C0;
+	}
+
